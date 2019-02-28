@@ -1,0 +1,6 @@
+owner=
+prefix=' 
+game=By AlMpy
+stayinchannel=true
+songinstatus=false
+token=
